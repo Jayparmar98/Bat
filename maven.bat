@@ -3,7 +3,7 @@
 setlocal
 
 set JDK_PATH=C:\Program Files\Java\jdk-17
-set M2_HOME=C:\Path\to\Your\Maven
+set M2_HOME=C:\apache-maven-3.9.2-bin\apache-maven-3.9.2
 
 set PATH=%JDK_PATH%\bin;%M2_HOME%\bin;%PATH%
 
